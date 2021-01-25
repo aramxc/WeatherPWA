@@ -11,3 +11,9 @@ I'm starting with a very simple weather application here and with time I hope to
 ## Future Implementation Ideas
 
 After creating the basic web interface showing the user local weather data, I'd love to be able to incorporate other data streams to provide the user with other data as well. Current ideas include using population density data, Covid19 case data, etc. I don't want to stop at just weather!
+
+## API
+
+For this project I used the free OpenWeather API for all weather data
+
+For more information visit https://openweathermap.org/
