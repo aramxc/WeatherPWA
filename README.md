@@ -19,3 +19,7 @@ After creating the basic web interface showing the user local weather data, I'd 
 For this project I used the free OpenWeather API for all weather data
 
 For more information visit https://openweathermap.org/
+
+## HTML and CSS 
+
+Most of the style sheets and HTML code were obtained through a code tutorial from Adrian Hajdin, his source code can be found on his personal github account https://github.com/adrianhajdin/project_weather_pwa
