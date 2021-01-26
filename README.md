@@ -1,6 +1,7 @@
 # Simple Progressive Native React Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+View App:
+https://aramxc-weather-pwa.herokuapp.com/
 
 ## Project Goals
 
@@ -13,6 +14,8 @@ Another concept I want to get comfortable with is PWA's (Progressive Web Applica
 ## Cloud Based Hosting with Heroku
 
 I also wanted to learn more about Heroku. Heroku is a cloud based platform that allows developers to build, run, and operate applications remotely. 
+
+To view visit https://aramxc-weather-pwa.herokuapp.com/
 
 ## Future Implementation Ideas
 
