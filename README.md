@@ -8,7 +8,11 @@ My aim with this project is to familiarize myself with React while brushing up o
 
 I'm starting with a very simple weather application here and with time I hope to add other features as I learn new skills. Ideally I'll make use of relational databases to demonstrate a basic understanding of data manipulation in a web based application! 
 
-Another concept I want to get confortable with is PWA's (Progressive Web Application's). In this project, I learned about service workers - code that allows an application run even if the user is not connected to the internet.
+Another concept I want to get comfortable with is PWA's (Progressive Web Application's). In this project, I learned about service workers - code that allows an application to load stored data if the user is not connected to the internet.
+
+## Cloud Based Hosting with Heroku
+
+I also wanted to learn more about Heroku. Heroku is a cloud based platform that allows developers to build, run, and operate applications remotely. 
 
 ## Future Implementation Ideas
 
